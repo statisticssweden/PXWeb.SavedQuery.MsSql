@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PXWeb.SavedQuery.MsSql", "PXWeb.SavedQuery.MsSql\PXWeb.SavedQuery.MsSql.csproj", "{86EC7E83-14AC-432C-B9D0-1BF3F73C0117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PXWeb.SavedQuery.MsSql.UnitTest", "PXWeb.SavedQuery.MsSql.UnitTest\PXWeb.SavedQuery.MsSql.UnitTest.csproj", "{C11E6EE6-D6D8-4F86-9129-3D5CEC3D7A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86EC7E83-14AC-432C-B9D0-1BF3F73C0117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EC7E83-14AC-432C-B9D0-1BF3F73C0117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EC7E83-14AC-432C-B9D0-1BF3F73C0117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EC7E83-14AC-432C-B9D0-1BF3F73C0117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11E6EE6-D6D8-4F86-9129-3D5CEC3D7A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11E6EE6-D6D8-4F86-9129-3D5CEC3D7A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11E6EE6-D6D8-4F86-9129-3D5CEC3D7A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11E6EE6-D6D8-4F86-9129-3D5CEC3D7A11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0519CF6C-93CD-4F4E-B789-96AF39888BE0}
+	EndGlobalSection
+EndGlobal
